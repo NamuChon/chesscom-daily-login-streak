@@ -18,5 +18,5 @@ A userscript that records your daily Chess.com visit streak on your browser's lo
 
 ## Visual
 
-![Test Alert](https://drive.google.com/file/d/1TP4VcpkYUyEOY0_jHcdj5cYRqfFMsDh5/view?usp=drive_link)
-![Test Icon](https://drive.google.com/file/d/1KRsxdeGlw_JfDsTi-ztEoxJeBiNX5ur0/view?usp=drive_link)
+![Test Alert](https://drive.google.com/uc?export=view&id=1TP4VcpkYUyEOY0_jHcdj5cYRqfFMsDh5)
+![Test Icon](https://drive.google.com/uc?export=view&id=1KRsxdeGlw_JfDsTi-ztEoxJeBiNX5ur0)
